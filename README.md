@@ -1,2 +1,3 @@
 # crandDNA
-# crandDNA
+
+Custom randDNA files
