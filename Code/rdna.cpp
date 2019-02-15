@@ -3,7 +3,7 @@
 #include <iostream>
 using namespace std;
 
-std::string randDNA(int seed,int n) {
+string randDNA(int seed,int n) {
 mt19937 eng1(seed);
 int min = 0; // minimum number to generate
 int max = 3; // maximum number to generate
