@@ -45,7 +45,7 @@ string randDNA(int seed, string bases, int n) {
 	{
 		index = uniform(eng1);
 		dna = dna + bases[index];
-	}// adds A C G T to the output string
+	}// adds the letters provided in the string to the output string
 	return dna;// returns the output string
 }
 
